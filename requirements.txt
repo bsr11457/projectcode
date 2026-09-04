@@ -9,3 +9,4 @@ sentence-transformers>=3.0
 pypdf>=5.0
 gradio>=5.0,<7.0
 python-dotenv>=1.0
+streamlit>=1.40
