@@ -14,7 +14,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from pypdf import PdfReader
 
-from .settings import SETTINGS
+from settings import SETTINGS
 
 
 PDF_PATTERNS = {
